@@ -7,6 +7,12 @@
     "autoload": {
         "psr-4": {"Anax\\": "src/"}
     },
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/mangepong/ramverk1-weather"
+    }
+],
     "require": {
         "anax/emil-ramverk1": "dev-master"
     },
