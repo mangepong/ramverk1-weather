@@ -8,7 +8,7 @@
         "psr-4": {"Anax\\": "src/"}
     },
     "require": {
-        "anax/emil-ramverk1": "dev-master"
+        "mange/emil-ramverk1": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^7"
