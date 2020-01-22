@@ -1,6 +1,6 @@
 {
-    "name" : "anax/emil-ramverk1",
-    "description": "A me page for the ramverk1 course.",
+    "name" : "mange/emil-ramverk1",
+    "description": "Weather module",
     "license": "MIT",
     "minimum-stability": "beta",
     "prefer-stable": true,
