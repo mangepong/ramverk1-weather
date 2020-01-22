@@ -13,3 +13,5 @@ composer require mange/emil-ramverk1 ^v3.0.3
 ```
 bash vendor/mange/emil-ramverk1/.anax/scaffold/postprocess.d/700_weather.bash
 ```
+
+* You will find the module under ``/weather``.
