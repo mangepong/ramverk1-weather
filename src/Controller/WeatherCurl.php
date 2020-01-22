@@ -26,7 +26,7 @@ class WeatherCurl
         $url =  "https://api.darksky.net/forecast";
         $time = "12:00:00";
         $date = date("Y-m-d");
-
+        $key = "";
         $days = 7;
 
         $mh = curl_multi_init();
@@ -41,10 +41,8 @@ class WeatherCurl
         if ($this->key) {
             $key = $this->key;
         } else {
-            // $key = "c5d9fa305d5b063807a2cd9ff701c080";
-            echo "LOL";
+            $key = "c5d9fa305d5b063807a2cd9ff701c080";
         }
-
         while ($days > 0) {
             $ch = curl_init("$url/$key/$lat,$long,{$date}T$time?units=si");
             curl_setopt_array($ch, $options);
