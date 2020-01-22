@@ -1,5 +1,5 @@
 ## v3.0.0^
-Refining the module, added readme, revision and scaffolding.
+Refining the module, added readme, revision, license and scaffolding.
 
 
 ## v2.0.0
