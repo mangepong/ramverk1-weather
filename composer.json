@@ -7,9 +7,6 @@
     "autoload": {
         "psr-4": {"Anax\\": "src/"}
     },
-    "require": {
-        "mange/emil-ramverk1": "dev-master"
-    },
     "require-dev": {
         "phpunit/phpunit": "^7"
     }
