@@ -10,7 +10,7 @@ A weather module for the course ramverk1 at BTH.
 
 * To install the module you will have to download composer and then write:
 ```
-composer require mange/emil-ramverk1 ^v3.0.3
+composer require mange/emil-ramverk1 ^v4.0.1
 ```
 
 * Then you will have to run the postprocessing script
