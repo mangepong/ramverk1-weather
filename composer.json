@@ -8,7 +8,7 @@
         "psr-4": {"Anax\\": "src/"}
     },
     "require": {
-        "php": ">=7.2",
+        "php": ">=7.3",
         "anax/commons": "^2.0.0@beta",
         "anax/configure": "^2.0.0@alpha",
         "anax/controller": "^2.0.0@beta",
