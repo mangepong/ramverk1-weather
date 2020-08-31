@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/mangepong/ramverk1-weather.svg?branch=master)](https://travis-ci.org/mangepong/ramverk1-weather)
 # ramverk1 Weather Module
 
 A weather module for the course ramverk1 at BTH.
