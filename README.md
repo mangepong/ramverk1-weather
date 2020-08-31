@@ -1,3 +1,5 @@
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/mangepong/ramverk1-weather/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mangepong/ramverk1-weather/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mangepong/ramverk1-weather/?branch=master)
 [![Build Status](https://travis-ci.org/mangepong/ramverk1-weather.svg?branch=master)](https://travis-ci.org/mangepong/ramverk1-weather)
 # ramverk1 Weather Module
 
